@@ -1,5 +1,6 @@
 # NLW-Spacetime-Ignite
 NLW Spacetime
+![preview](https://github.com/EduardoTCaetano/NLW-Spacetime-Ignite/assets/149100621/e20c574a-0b23-493f-9e67-0f10d68d9d67)
 
 Sobre o Projeto
 O projeto foi desenvolvido durante o NLW Spacetime da Rocketseat, onde a ideia principal é uma cápsula do tempo, na qual o usuário pode registrar momentos marcantes da sua vida em uma timeline.
